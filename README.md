@@ -7,7 +7,7 @@
   
 * <b> Dataset </b>
   
-  In this dataset, there are 3 data classes namely Rock, Paper, and Scissors with 2188 images. The dataset you use in the .zip format to download it and you can extract it depends on how you use the dataset in the image classification. The dataset you use has a 300x200 pixel image size in PNG format. You can download it at the <a href="https://www.kaggle.com/drgfreeman/rockpaperscissors" rel="nofollow"> Kaggle </a> site or DrGFreeman's GitHub repository in (https://github.com/DrGFreeman/rps-cv).  
+  In this dataset, there are 3 data classes namely Rock, Paper, and Scissors with 2188 images. The dataset you use in the <b>.zip</b> format to download it and you can extract it depends on how you use the dataset in the image classification. The dataset you use has a 300x200 pixel image size in PNG format. You can download it at the <a href="https://www.kaggle.com/drgfreeman/rockpaperscissors" rel="nofollow"> Kaggle </a> site or DrGFreeman's GitHub repository in (https://github.com/DrGFreeman/rps-cv).  
   
 * <b>Usage</b>
 
