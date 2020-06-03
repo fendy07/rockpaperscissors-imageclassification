@@ -3,6 +3,10 @@
 
 * <b>Introduction</b>
 
+ <img src="https://machinethink.net/images/coreml-training/Classes@2x.jpg" alt="" style="max-width:50%;">
+ 
+ Source image by <a href="https://machinethink.net/blog/coreml-training-part2/" rel="nofollow">Machinethink.net</a>
+
   This dataset contains images of hand gestures from the Rock-Paper-Scissors game. The images were captured as part of a hobby project where I developped a Rock-Paper-Scissors game using computer vision and machine learning on the Raspberry Pi. You can download dataset to (https://github.com/DrGFreeman/rps-cv). This project is the final project of my submission at Dicoding Indonesia.
   
 * <b> Dataset </b>
